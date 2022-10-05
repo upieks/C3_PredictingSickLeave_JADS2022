@@ -1,0 +1,335 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Arbeidsdeelname; kerncijfers";"Arbeidsdeelname; kerncijfers";"85264NED";"Beroepsbevolking, werkloosheidspercentage, arbeidsparticipatie
+arbeidsparticipatie, geslacht, leeftijd, onderwijsniveau";"2022-08-17T02:00:00";"Nieuw";"";"nl";"CBS";"Perkwartaal";"2013 1e kwartaal - 2022 2e kwartaal";"
+Deze tabel bevat kwartaal- en jaarcijfers over de arbeidsdeelname in Nederland. De bevolking van 15 tot 75 jaar (exclusief de institutionele bevolking) wordt ingedeeld in de werkzame, werkloze en de niet-beroepsbevolking. De werkzame beroepsbevolking wordt verder ingedeeld op basis van de positie in de werkkring en de gemiddelde arbeidsduur. Voor de verschillende indelingen is een uitsplitsing naar geslacht, leeftijd en onderwijsniveau beschikbaar.
+
+Gegevens beschikbaar vanaf: 2013
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief.  
+
+Wijzigingen per 17 augustus 2022:
+Geen, dit is een nieuwe tabel. Deze tabel is samengesteld op basis van de Enquête Beroepsbevolking (EBB). Vanwege wijzigingen in het onderzoeksdesign en de vragenlijst van de EBB zijn de cijfers over 2021 niet zonder meer vergelijkbaar met de cijfers tot en met 2020. De kerncijfers in deze tabel zijn daarom consistent gemaakt met de (niet-seizoengecorrigeerde) cijfers in de tabel Arbeidsdeelname, kerncijfers seizoengecorrigeerd (zie paragraaf 4), waarin de uitkomsten voor de periode 2013-2020 zijn herberekend om aan te sluiten op de uitkomsten vanaf 2021. Bij verdere detaillering van de uitkomsten naar baan- en persoonskenmerken kunnen er van 2020 op 2021 desondanks verschillen zijn als gevolg van de nieuwe methode.
+
+Wanneer komen er nieuwe cijfers?
+Nieuwe cijfers worden gepubliceerd op 17 november 2022.
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+1. TOELICHTING
+
+Deze tabel bevat kwartaal- en jaarcijfers over de arbeidsdeelname in Nederland. De bevolking van 15 tot 75 jaar (exclusief de institutionele bevolking) wordt ingedeeld in de werkzame, werkloze en de niet-beroepsbevolking. De werkzame beroepsbevolking wordt verder ingedeeld op basis van de positie in de werkkring en de gemiddelde arbeidsduur. Voor de verschillende indelingen is een uitsplitsing naar geslacht, leeftijd en onderwijsniveau beschikbaar.
+
+Gegevens beschikbaar vanaf: 2013
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief.  
+
+Wijzigingen per 17 augustus 2022:
+Geen, dit is een nieuwe tabel. Deze tabel is samengesteld op basis van de Enquête Beroepsbevolking (EBB). Vanwege wijzigingen in het onderzoeksdesign en de vragenlijst van de EBB zijn de cijfers over 2021 niet zonder meer vergelijkbaar met de cijfers tot en met 2020. De kerncijfers in deze tabel zijn daarom consistent gemaakt met de (niet-seizoengecorrigeerde) cijfers in de tabel Arbeidsdeelname, kerncijfers seizoengecorrigeerd (zie paragraaf 4), waarin de uitkomsten voor de periode 2013-2020 zijn herberekend om aan te sluiten op de uitkomsten vanaf 2021. Bij verdere detaillering van de uitkomsten naar baan- en persoonskenmerken kunnen er van 2020 op 2021 desondanks verschillen zijn als gevolg van de nieuwe methode.
+
+Wanneer komen er nieuwe cijfers?
+Nieuwe cijfers worden gepubliceerd op 17 november 2022.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Beroepsbevolking:
+Personen
+- die betaald werk hebben (werkzame beroepsbevolking), of
+- die geen betaald werk hebben, recent naar betaald werk hebben gezocht en daarvoor direct beschikbaar zijn (werkloze beroepsbevolking).
+
+Werkzame beroepsbevolking:
+Personen die betaald werk hebben.
+
+Werkloze beroepsbevolking:
+Personen zonder betaald werk, die recent naar werk hebben gezocht en daarvoor direct beschikbaar zijn.
+
+Niet-beroepsbevolking:
+Personen zonder betaald werk die niet recent naar werk hebben gezocht of daarvoor niet direct beschikbaar zijn.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+Enkele cijfers zijn afgerond op duizendtallen. Hierdoor kan het voorkomen, dat de som van de detailgegevens afwijkt van het totaal.
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Deze tabel is de opvolger van: <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82309NED'>Arbeidsdeelname; kerncijfers, 2003-2022</a>
+
+Relevante tabellen:
+Andere tabellen over de arbeidsdeelname zijn te vinden op StatLine onder het thema <a href='https://opendata.cbs.nl/statline/#/CBS/nl/navigatieScherm/thema?themaNr=50870'>Beroepsbevolking</a>.
+
+Deze tabel bevat cijfers die vanaf 2013 zijn herberekend om zoveel mogelijk aan te sluiten op de uitkomsten vanaf 2021. De cijfers in de tabel <a href='http://opendata.cbs.nl/statline/#/CBS/nl/dataset/80590ned/table?dl=61121'>Arbeidsdeelname en werkloosheid per maand</a> zijn vanaf 2003 herberekend.
+Relevante artikelen:
+
+Voor meer informatie over de revisie van de cijfers over werkloosheid en de beroepsbevolking, zie het <a href='https://www.cbs.nl/nl-nl/nieuws/2021/48/meer-werklozen-maar-ook-meer-werkenden-met-nieuwe-meetmethode'>artikel van 3 december 2021</a>.
+
+Meer informatie is te vinden op de themapagina <a href='https://www.cbs.nl/nl-NL/menu/themas/arbeid-sociale-zekerheid/nieuws/default.htm'>Arbeid en Sociale Zekerheid.</a>
+
+4. BRONNEN EN METHODEN
+
+Deze tabel is samengesteld op basis van de Enquête Beroepsbevolking (EBB). Vanwege wijzigingen in het onderzoeksdesign en de vragenlijst van de EBB zijn de cijfers over 2021 niet zonder meer vergelijkbaar met de cijfers tot en met 2020. De kerncijfers in deze tabel zijn daarom consistent gemaakt met de (niet-seizoengecorrigeerde) cijfers in de tabel <a href='http://opendata.cbs.nl/statline/#/CBS/nl/dataset/85224NED/table?dl=6A716'>Arbeidsdeelname, kerncijfers seizoengecorrigeerd</a>, waarin de uitkomsten voor de periode 2013-2020 zijn herberekend om aan te sluiten op de uitkomsten vanaf 2021. Bij verdere detaillering van de uitkomsten naar baan- en persoonskenmerken kunnen er van 2020 op 2021 desondanks verschillen zijn als gevolg van de nieuwe methode.
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving  van de <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/enquete-beroepsbevolking--ebb--'>Enquête beroepsbevolking (EBB)(cbs.nl)</a>.</a>
+
+Revisie onderwijsniveau en -richting
+Vanaf 2021 wordt voor het onderwijsniveau gepubliceerd op basis van de SOI 2021. De ISCED-F 2013 is als basis genomen voor de richtingindeling van de SOI 2021. Meer informatie over de SOI 2021 is te vinden op de pagina <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/classificaties/onderwijs-en-beroepen/standaard-onderwijsindeling--soi--/standaard-onderwijsindeling-2021'>Standaard Onderwijsindeling 2021 (cbs.nl)</a>
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.
+
+";"ts=1658219375196&graphtype=Table&r=Topics&k=Geslacht,Leeftijd&t=HoogstBehaaldOnderwijsniveau,Perioden";"$filter=((Leeftijd eq '52052') or (Leeftijd eq '53050') or (Leeftijd eq '53310') or (Leeftijd eq '53825')) and ((HoogstBehaaldOnderwijsniveau eq 'T001143')) and ((Perioden eq '2022KW02'))&$select=Geslacht, Leeftijd, HoogstBehaaldOnderwijsniveau, Perioden, BeroepsEnNietBeroepsbevolking_1, Beroepsbevolking_2, WerkzameBeroepsbevolking_3, WerklozeBeroepsbevolking_20, Werkloosheidspercentage_21, NietBeroepsbevolking_22, NettoArbeidsparticipatie_24";"Table,Bar,Line";"Regulier";"CBS.";"2022-08-17T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Geslacht";"Geslacht";"";;;;;
+"1";"1";;"Dimension";"Leeftijd";"Leeftijd";"";;;;;
+"2";"2";;"Dimension";"HoogstBehaaldOnderwijsniveau";"Hoogst behaald onderwijsniveau";"";;;;;
+"3";"3";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"4";"4";;"Topic";"BeroepsEnNietBeroepsbevolking_1";"Beroeps- en niet-beroepsbevolking";"Personen die tot de werkzame, de werkloze of de niet-beroepsbevolking behoren.	
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar.
+";;"Long";"x 1 000";"0";"Missing"
+"5";;;"TopicGroup";"";"Beroepsbevolking";"Personen:
+- die betaald werk hebben (werkzame beroepsbevolking), of
+- die geen betaald werk hebben, recent naar betaald werk hebben gezocht en daarvoor direct beschikbaar zijn (werkloze beroepsbevolking).
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar. Bij betaald werk gaat het om werkzaamheden ongeacht de arbeidsduur.
+";;;;;
+"6";"5";"5";"Topic";"Beroepsbevolking_2";"Beroepsbevolking";"Personen:
+- die betaald werk hebben (werkzame beroepsbevolking), of
+- die geen betaald werk hebben, recent naar betaald werk hebben gezocht en daarvoor direct beschikbaar zijn (werkloze beroepsbevolking).
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar. Bij betaald werk gaat het om werkzaamheden ongeacht de arbeidsduur.
+";;"Long";"x 1 000";"0";"Missing"
+"7";;"5";"TopicGroup";"";"Werkzame beroepsbevolking";"Personen die betaald werk hebben.
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar. Bij betaald werk gaat het om werkzaamheden ongeacht de arbeidsduur.
+";;;;;
+"8";"6";"7";"Topic";"WerkzameBeroepsbevolking_3";"Werkzame beroepsbevolking";"Personen die betaald werk hebben.
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar. Bij betaald werk gaat het om werkzaamheden ongeacht de arbeidsduur.
+";;"Long";"x 1 000";"0";"Missing"
+"9";;"7";"TopicGroup";"";"Positie in de werkkring";"Indeling van de werkzame beroepsbevolking naar:
+Werknemer
+- met een vaste arbeidsrelatie 
+- met een flexibele arbeidsrelatie
+Zelfstandige 
+- zonder personeel
+- met personeel
+- meewerkend gezinslid
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;;;;
+"10";;"9";"TopicGroup";"";"Werknemer";"Een persoon die in een arbeidsovereenkomst afspraken met een economische eenheid maakt om arbeid te verrichten waartegenover een financiële beloning staat.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;;;;
+"11";"7";"10";"Topic";"Werknemer_4";"Werknemer";"Een persoon die in een arbeidsovereenkomst afspraken met een economische eenheid maakt om arbeid te verrichten waartegenover een financiële beloning staat.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;"Long";"x 1 000";"0";"Missing"
+"12";"8";"10";"Topic";"WerknemerMetVasteArbeidsrelatie_5";"Werknemer met vaste arbeidsrelatie";"Een werknemer met een arbeidsovereenkomst voor onbepaalde tijd én een vast aantal uren per week.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;"Long";"x 1 000";"0";"Missing"
+"13";"9";"10";"Topic";"WerknemerMetFlexibeleArbeidsrelatie_6";"Werknemer met flexibele arbeidsrelatie";"Een werknemer met een arbeidsovereenkomst voor bepaalde tijd óf een flexibel aantal uren per week. Tot de werknemers met een flexibele arbeidsrelatie behoren: - Werknemer tijdelijk, uitzicht op vast - Werknemer tijdelijk >=1 jaar - Werknemer tijdelijk <1 jaar - Oproep/-invalkracht - Uitzendkracht - Werknemer flex, contract onbekend.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;"Long";"x 1 000";"0";"Missing"
+"14";;"9";"TopicGroup";"";"Zelfstandige";"Een persoon die voor eigen rekening of risico arbeid verricht 
+- in een eigen bedrijf of praktijk (zelfstandig ondernemer),  
+- als directeur-grootaandeelhouder (dga),
+- in het bedrijf of de praktijk van een gezinslid (meewerkend gezinslid), of 
+- als overige zelfstandige.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;;;;
+"15";"10";"14";"Topic";"Zelfstandige_7";"Zelfstandige";"Een persoon die voor eigen rekening of risico arbeid verricht 
+- in een eigen bedrijf of praktijk (zelfstandig ondernemer),  
+- als directeur-grootaandeelhouder (dga),
+- in het bedrijf of de praktijk van een gezinslid (meewerkend gezinslid), of 
+- als overige zelfstandige.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.";;"Long";"x 1 000";"0";"Missing"
+"16";"11";"14";"Topic";"ZelfstandigeZonderPersoneelZzp_8";"Zelfstandige zonder personeel (zzp)";"Een persoon die voor eigen rekening of risico arbeid verricht in een eigen bedrijf of praktijk (zelfstandig ondernemer) of als directeur-grootaandeelhouder (dga) en die geen personeel in dienst heeft. Overige zelfstandigen worden ook tot de zelfstandigen zonder personeel gerekend.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;"Long";"x 1 000";"0";"Missing"
+"17";"12";"14";"Topic";"ZelfstandigeMetPersoneel_9";"Zelfstandige met personeel";"Een persoon die voor eigen rekening of risico arbeid verricht in een eigen bedrijf of praktijk (zelfstandig ondernemer) of als directeur-grootaandeelhouder (dga) en die personeel in dienst heeft.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;"Long";"x 1 000";"0";"Missing"
+"18";"13";"14";"Topic";"MeewerkendGezinslid_10";"Meewerkend gezinslid";"Een persoon die zonder schriftelijke  overeenkomst arbeid verricht in het bedrijf of de praktijk van een gezinslid.
+
+Als een persoon meer dan één baan of werkkring heeft, dan wordt uitgegaan van de baan of werkkring waaraan de meeste tijd wordt besteed.
+";;"Long";"x 1 000";"0";"Missing"
+"19";"14";"9";"Topic";"PositieInDeWerkkringOnbekend_11";"Positie in de werkkring onbekend";;;"Long";"x 1 000";"0";"Missing"
+"20";;"7";"TopicGroup";"";"Arbeidsduur";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;;;;
+"21";;"20";"TopicGroup";"";"Deeltijd";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is minder dan 35 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.";;;;;
+"22";"15";"21";"Topic";"Deeltijd_12";"Deeltijd";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is minder dan 35 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;"Long";"x 1 000";"0";"Missing"
+"23";;"21";"TopicGroup";"";"Minder dan 20 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is minder dan 20 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;;;;
+"24";"16";"23";"Topic";"MinderDan20UurPerWeek_13";"Minder dan 20 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is minder dan 20 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;"Long";"x 1 000";"0";"Missing"
+"25";"17";"23";"Topic";"MinderDan12UurPerWeek_14";"Minder dan 12 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is minder dan 12 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;"Long";"x 1 000";"0";"Missing"
+"26";"18";"23";"Topic";"k_12Tot20UurPerWeek_15";"12 tot 20 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is 12 tot 20 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;"Long";"x 1 000";"0";"Missing"
+"27";;"21";"TopicGroup";"";"20 tot 35 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is 20 tot 35 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;;;;
+"28";"19";"27";"Topic";"k_20Tot35UurPerWeek_16";"20 tot 35 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is 20 tot 35 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;"Long";"x 1 000";"0";"Missing"
+"29";"20";"27";"Topic";"k_20Tot28UurPerWeek_17";"20 tot 28 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is 20 tot 28 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.";;"Long";"x 1 000";"0";"Missing"
+"30";"21";"27";"Topic";"k_28Tot35UurPerWeek_18";"28 tot 35 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is 28 tot 35 uur.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;"Long";"x 1 000";"0";"Missing"
+"31";"22";"20";"Topic";"Voltijd_19";"Voltijd";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt, is 35 uur of meer.
+
+In de gemiddelde arbeidsduur worden overuren en onbetaalde uren niet meegerekend.
+";;"Long";"x 1 000";"0";"Missing"
+"32";"23";"5";"Topic";"WerklozeBeroepsbevolking_20";"Werkloze beroepsbevolking";"Personen zonder betaald werk, die recent naar werk hebben gezocht en daarvoor direct beschikbaar zijn.
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar. Bij betaald werk gaat het om werkzaamheden ongeacht de arbeidsduur.
+";;"Long";"x 1 000";"0";"Missing"
+"33";"24";"5";"Topic";"Werkloosheidspercentage_21";"Werkloosheidspercentage";"De werkloze beroepsbevolking als percentage van de (werkzame en werkloze) beroepsbevolking.
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar.
+";;"Float";"%";"1";"Missing"
+"34";"25";;"Topic";"NietBeroepsbevolking_22";"Niet-beroepsbevolking";"Personen zonder betaald werk die niet recent naar werk hebben gezocht of daarvoor niet direct beschikbaar zijn.
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar. Bij betaald werk gaat het om werkzaamheden ongeacht de arbeidsduur.
+";;"Long";"x 1 000";"0";"Missing"
+"35";"26";;"Topic";"BrutoArbeidsparticipatie_23";"Bruto arbeidsparticipatie";"Het aandeel van de (werkzame en werkloze) beroepsbevolking in de bevolking (beroeps- en niet-beroepsbevolking).
+	
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar.";;"Float";"%";"1";"Missing"
+"36";"27";;"Topic";"NettoArbeidsparticipatie_24";"Netto arbeidsparticipatie";"Het aandeel van de werkzame beroepsbevolking in de bevolking (beroeps- en niet-beroepsbevolking).
+
+Deze definitie heeft betrekking op personen die in Nederland wonen (exclusief de institutionele bevolking). De gegevens worden meestal gepresenteerd voor de bevolking van 15 tot 75 jaar.";;"Float";"%";"1";"Missing"
+"Geslacht"
+Key;Title;Description
+"T001038";"Totaal mannen en vrouwen";""
+"3000   ";"Mannen";""
+"4000   ";"Vrouwen";""
+"Leeftijd"
+Key;Title;Description
+"52050";"15 tot 65 jaar";
+"52052";"15 tot 75 jaar";""
+"53050";"15 tot 25 jaar";""
+"53310";"25 tot 45 jaar";
+"53500";"25 tot 35 jaar";""
+"53700";"35 tot 45 jaar";""
+"53715";"45 tot 65 jaar";
+"53800";"45 tot 55 jaar";""
+"53825";"45 tot 75 jaar";""
+"53900";"55 tot 65 jaar";""
+"53925";"65 tot 75 jaar";""
+"70400";"15 tot 20 jaar";""
+"70500";"20 tot 25 jaar";""
+"70600";"25 tot 30 jaar";""
+"70700";"30 tot 35 jaar";""
+"70800";"35 tot 40 jaar";""
+"70900";"40 tot 45 jaar";""
+"71000";"45 tot 50 jaar";""
+"71100";"50 tot 55 jaar";""
+"71200";"55 tot 60 jaar";""
+"71300";"60 tot 65 jaar";""
+"71400";"65 tot 70 jaar";""
+"71500";"70 tot 75 jaar";""
+"HoogstBehaaldOnderwijsniveau"
+Key;Title;Description
+"2018700";"1 Laag onderwijsniveau";"Het hoogstbehaald onderwijsniveau is laag onderwijs. 
+Dit omvat onderwijs op het niveau van basisonderwijs, het vmbo, de eerste 3 leerjaren van havo/vwo en de entreeopleiding, de voormalige assistentenopleiding (mbo1)."
+"2018740";"2 Middelbaar onderwijsniveau";"Het hoogstbehaald onderwijsniveau is middelbaar onderwijs. 
+Dit omvat de bovenbouw van havo/vwo, de basisberoepsopleiding (mbo2), de vakopleiding (mbo3) en de middenkader- en specialistenopleidingen (mbo4)."
+"2018790";"3 Hoog onderwijsniveau";"Het hoogstbehaald onderwijsniveau is hoog onderwijs. 
+Dit omvat onderwijs op het niveau van hbo of wo."
+"2018820";"Weet niet of onbekend";"Het hoogstbehaald onderwijsniveau is onbekend."
+"T001143";"Totaal";""
+"Perioden"
+Key;Title;Description;Status
+"2013KW01";"2013 1e kwartaal";"";"Definitief"
+"2013KW02";"2013 2e kwartaal";"";"Definitief"
+"2013KW03";"2013 3e kwartaal";"";"Definitief"
+"2013KW04";"2013 4e kwartaal";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014KW01";"2014 1e kwartaal";"";"Definitief"
+"2014KW02";"2014 2e kwartaal";"";"Definitief"
+"2014KW03";"2014 3e kwartaal";"";"Definitief"
+"2014KW04";"2014 4e kwartaal";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015KW01";"2015 1e kwartaal";;"Definitief"
+"2015KW02";"2015 2e kwartaal";;"Definitief"
+"2015KW03";"2015 3e kwartaal";;"Definitief"
+"2015KW04";"2015 4e kwartaal";;"Definitief"
+"2015JJ00";"2015 ";;"Definitief"
+"2016KW01";"2016 1e kwartaal";;"Definitief"
+"2016KW02";"2016 2e kwartaal";;"Definitief"
+"2016KW03";"2016 3e kwartaal";;"Definitief"
+"2016KW04";"2016 4e kwartaal";;"Definitief"
+"2016JJ00";"2016";;"Definitief"
+"2017KW01";"2017 1e kwartaal";;"Definitief"
+"2017KW02";"2017 2e kwartaal";;"Definitief"
+"2017KW03";"2017 3e kwartaal";;"Definitief"
+"2017KW04";"2017 4e kwartaal";;"Definitief"
+"2017JJ00";"2017";;"Definitief"
+"2018KW01";"2018 1e kwartaal";;"Definitief"
+"2018KW02";"2018 2e kwartaal";;"Definitief"
+"2018KW03";"2018 3e kwartaal";;"Definitief"
+"2018KW04";"2018 4e kwartaal";;"Definitief"
+"2018JJ00";"2018";;"Definitief"
+"2019KW01";"2019 1e kwartaal";;"Definitief"
+"2019KW02";"2019 2e kwartaal";;"Definitief"
+"2019KW03";"2019 3e kwartaal";;"Definitief"
+"2019KW04";"2019 4e kwartaal";;"Definitief"
+"2019JJ00";"2019";;"Definitief"
+"2020KW01";"2020 1e kwartaal";;"Definitief"
+"2020KW02";"2020 2e kwartaal";;"Definitief"
+"2020KW03";"2020 3e kwartaal";;"Definitief"
+"2020KW04";"2020 4e kwartaal";;"Definitief"
+"2020JJ00";"2020";;"Definitief"
+"2021KW01";"2021 1e kwartaal";;"Definitief"
+"2021KW02";"2021 2e kwartaal";;"Definitief"
+"2021KW03";"2021 3e kwartaal";;"Definitief"
+"2021KW04";"2021 4e kwartaal";;"Definitief"
+"2021JJ00";"2021";;"Definitief"
+"2022KW01";"2022 1e kwartaal";;"Definitief"
+"2022KW02";"2022 2e kwartaal";;"Definitief"
